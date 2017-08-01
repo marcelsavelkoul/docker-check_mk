@@ -7,7 +7,7 @@ Usage example:
 --------------
 
 ```shell
-$ docker run -it --rm --name=check_mk_agent -p 6556  markocelan/docker-check-mk
+$ docker run -it --rm --name=check_mk_agent -p 6556  marcelsavelkoul/docker-check-mk
 
 ```
 
